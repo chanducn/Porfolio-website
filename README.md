@@ -1,8 +1,8 @@
-# 💼 Sumeet Gaikwad | Portfolio Website
+# 💼 Chandrakant Choudhary | Portfolio Website
 
 Welcome to my personal portfolio website — a dynamic and responsive platform to showcase my skills, projects, and experience in the field of **Data Science, AI/ML, Python Development**, and more.
 
-🔗 [Visit Portfolio](https://portfolio-sumeet.vercel.app/)
+🔗 [Visit Portfolio](https://porfolio-website-nu-three.vercel.app/)
 
 ---
 
